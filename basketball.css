@@ -1,0 +1,30 @@
+body {
+  background: url("https://lh3.googleusercontent.com/-GAAYMB6SXFM/VOg6OATxzcI/AAAAAAAACi0/XXLHbs9tXHE/s0-d/91652562b061be39e4de27efa8f396f2.png");
+  background-size: cover;
+  height: 800px;
+}
+.header {
+  text-align: center;
+}
+.headerTopUl {
+  position: fixed;
+  padding-left: 400px;
+}
+.LIlinkHeader {
+  display: inline;
+  padding: 33px;
+  border: 4px solid white;
+  border-bottom-left-radius: 30%;
+  border-bottom-right-radius: 30%;
+  background-color: rgba(65,105,225, 0.5);
+}
+.linkHeader {
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+  font-family: cursive, sans-serif;
+}
+.detailsHeader {
+  position: fixed;
+  padding-left: 1100px;
+}
